@@ -1,10 +1,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Apache License, Version 2.0, January 2004](https://img.shields.io/github/license/apache/maven.svg?label=License)][license]
-[![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg?label=Maven%20Central)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.apache.maven%22%20AND%20a%3A%22apache-maven%22)
-[![Jenkins Status](https://img.shields.io/jenkins/s/https/builds.apache.org/job/maven-box/job/maven/job/master.svg?style=flat-square)][build]
-[![Jenkins tests](https://img.shields.io/jenkins/t/https/builds.apache.org/job/maven-box/job/maven/job/master.svg?style=flat-square)][test-results]
-
+![Apache License, Version 2.0, January 2004](https://img.shields.io/github/license/apache/maven.svg?label=License)
+![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg?label=Maven%20Central)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -75,5 +72,5 @@ Project Link: [https://github.com/zcbbpo/Bilibili-Get](https://github.com/your_u
 [issues-shield]: https://img.shields.io/github/issues/zcbbpo/Bilibili-Get.svg?style=flat-square
 [issues-url]: https://github.com/zcbbpo/Bilibili-Get/issues
 [license-shield]: https://img.shields.io/github/license/zcbbpo/Bilibili-Get.svg?style=flat-square
-[license-url]: https://github.com/zcbbpo/Bilibili-Get/blob/master/LICENSE.txt
+[license-url]: https://img.shields.io/github/license/apache/maven.svg?label=License
 [product-screenshot]: https://s1.hdslb.com/bfs/static/jinkela/home/asserts/ic_launcher.png
