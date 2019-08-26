@@ -36,7 +36,6 @@ Build maven and import this dependency to your project.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * java
 * maven
 ```sh
