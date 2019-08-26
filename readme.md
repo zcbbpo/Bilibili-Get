@@ -1,9 +1,9 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
+[![Apache License, Version 2.0, January 2004](https://img.shields.io/github/license/apache/maven.svg?label=License)][license]
+[![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg?label=Maven%20Central)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.apache.maven%22%20AND%20a%3A%22apache-maven%22)
+[![Jenkins Status](https://img.shields.io/jenkins/s/https/builds.apache.org/job/maven-box/job/maven/job/master.svg?style=flat-square)][build]
+[![Jenkins tests](https://img.shields.io/jenkins/t/https/builds.apache.org/job/maven-box/job/maven/job/master.svg?style=flat-square)][test-results]
 
 
 <!-- PROJECT LOGO -->
@@ -61,11 +61,6 @@ public static void main(String[]args){
 } //Java
 ```
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 <!-- CONTACT -->
 ## Contact
 
@@ -75,10 +70,10 @@ Project Link: [https://github.com/zcbbpo/Bilibili-Get](https://github.com/your_u
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/zcbbpo/Bilibili-Get.svg?style=flat-square
 [stars-url]: https://github.com/zcbbpo/Bilibili-Get/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/zcbbpo/Bilibili-Get.svg?style=flat-square
 [issues-url]: https://github.com/zcbbpo/Bilibili-Get/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/zcbbpo/Bilibili-Get.svg?style=flat-square
 [license-url]: https://github.com/zcbbpo/Bilibili-Get/blob/master/LICENSE.txt
 [product-screenshot]: https://s1.hdslb.com/bfs/static/jinkela/home/asserts/ic_launcher.png
